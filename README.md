@@ -1,4 +1,4 @@
-EADME.md
+README.md
 # micropython-Si70xx
 A MicroPython library for the I2C [Silicon Labs Si70xx](http://www.silabs.com/products/sensors/humidity-sensors/Pages/default.aspx) series of relative humidity and temperature sensors.  
 This library should work with the Si7006 Si7013 Si7020 Si7021 Si7034
