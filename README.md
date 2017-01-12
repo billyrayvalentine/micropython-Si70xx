@@ -9,6 +9,7 @@ This class is a subclass of the [billyrayvalentine/micropython-Si705x] (https://
 
 # Methods
 There are only four methods:
+
 ```get_temperature``` - Perform a measurement and return the temperature in Celsius
 
 ```get_humidity``` - Perform a measurement and return the relative humidity percentage
