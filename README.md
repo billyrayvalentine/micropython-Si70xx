@@ -3,7 +3,7 @@ EADME.md
 A MicroPython library for the I2C [Silicon Labs Si70xx](http://www.silabs.com/products/sensors/humidity-sensors/Pages/default.aspx) series of relative humidity and temperature sensors.  
 This library should work with the Si7006 Si7013 Si7020 Si7021 Si7034
 
-This class is a subclass of the [billyrayvalentine/micropython-Si705x] (billyrayvalentine/micropython-Si705x) and must therefor be available to Micropython.
+This class is a subclass of the [billyrayvalentine/micropython-Si705x] (https://github.com/billyrayvalentine/micropython-Si705x) and must therefor be available to Micropython.
 
 **This module has currently only been tested on the Si7021.  Please report your milage**
 
